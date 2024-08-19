@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 19/08/24
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: harsetha j
+###  ROLL NO : 212223220032
+###  DEPARTMENT: IT
 
 
 
@@ -94,7 +94,8 @@ The main features of LPC2148 include the following.
 ## OUTPUT  :
  
  
- 
+ ![Screenshot (49)](https://github.com/user-attachments/assets/302e9a59-68f3-40e3-a5da-3b1ae4460abf)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
